@@ -4,11 +4,11 @@
 
 ### In this project, I design a data platform that uses MySQL as an OLTP database using PostgreSQL as stagging warehouse to store the OLTP data.
 
-\n Design the schema for an OLTP database.
-\n Load data into the OLTP database.
-Automate database administration tasks.
-Explain the architecture of a data platform.
-Query the data in the OLTP database using SQL.
+### Design the schema for an OLTP database.
+### Load data into the OLTP database.
+### Automate database administration tasks.
+### Explain the architecture of a data platform.
+### Query the data in the OLTP database using SQL.
 
 
 
