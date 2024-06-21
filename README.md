@@ -9,3 +9,6 @@ Load data into the OLTP database.
 Automate database administration tasks.
 Explain the architecture of a data platform.
 Query the data in the OLTP database using SQL.
+
+
+
